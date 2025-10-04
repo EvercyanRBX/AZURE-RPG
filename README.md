@@ -1,5 +1,5 @@
-# AZURE-RPG
-This was an RPG project I created in 2017, being featured in a discontinued YouTube development series where I was recording some work being done on it.
+# AZURE RPG
+AZURE RPG was a project I created in 2017, which was featured in a discontinued YouTube development series where I was recording some work being done on it.
 Quickly, this project was scrapped, but I decided to keep it open for the public. Now open source.
 
 This repository contains the latest version of the game under The Sparkle Time Studio, version 19 (published December 23, 2020).

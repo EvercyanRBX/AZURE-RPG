@@ -4,7 +4,7 @@ Quickly, this project was scrapped, but I decided to keep it open for the public
 
 This repository contains the latest version of the game under The Sparkle Time Studio, version 19 (published December 23, 2020).
 
-![](game_thumbnail.png)
+![ ](game_thumbnail.png)
 
 # Usage
 Feel free to download, use, modify, distribute and publish this project to your hearts content, under the MIT License. All I ask is that you repost the original license in this document if you plan to fork this software, or give me credit (@Evercyan on Roblox) if you plan to republish it on the Roblox website.
